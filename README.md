@@ -1,4 +1,4 @@
-# Simulation Mehrtanksystem (MATLAB/Simulink)
+# Simulation eines Mehrtanksystems in MATLAB/Simulink
 
 Dieses Projekt entstand im Rahmen des Fachs Simulation während meines Studiums. Ziel war die Modellbildung, Simulation und Regelung eines Zwei-Behälter-Systems. Die komplette Umsetzung und der Reglerentwurf wurden in MATLAB und Simulink realisiert.
 
